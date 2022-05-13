@@ -24,6 +24,7 @@ March 2022 - May 2022
 - Each enemy (created using <span style="color:blue">Factory Pattern</span>) in the game can move in a unique logic (created using <span style="color:orange">Strategy Pattern</span>)
 - Player can move his/her avatar around on the board (created using <span style="color:red">Singleton Pattern</span>) by pressing the corresponding direction buttons (implemented using <span style="color:green">Command Pattern</span>)
 - Each action of a character on the board is recorded in the text box (implemented using <span style="color:pink">Observer Pattern</span>)
+- [Recorded demo can be found here](https://drive.google.com/file/d/1pUlaC-z9wJE8GCpSlfkP2MKJSoyO0tnB/view?usp=sharing)
 
 ![Warped Souls](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/images/WarpedSouls.png)
 
@@ -40,6 +41,7 @@ Oct 2021 - Dec 2021
 
 - A 3D game created using `OpenGL`. Managed to mimic the game scenario in Souls games
 - Contains souls-like UI, transparent objects, sky box, collision detection, lighting effects produced by a slightly modified shader, and illusory walls (can be broken under special conditions)
+- [Recorded demo can be found here](https://drive.google.com/file/d/1i8sZmz35qDkBEU3uEd2EGe5iPiT1X4QQ/view?usp=sharing)
 
 ![Dark Souls Simulator](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/images/DarkSoulsSimulator.png)
 
