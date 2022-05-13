@@ -26,7 +26,7 @@ March 2022 - May 2022
 - Each action of a character on the board is recorded in the text box (implemented using <span style="color:pink">Observer Pattern</span>)
 - [Recorded demo can be found here](https://drive.google.com/file/d/1pUlaC-z9wJE8GCpSlfkP2MKJSoyO0tnB/view?usp=sharing)
 
-![Warped Souls](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/images/WarpedSouls.png)
+![Warped Souls](../images/WarpedSouls.png)
 
 ## *[Music Store Simulator](https://github.com/addzy94/ooad-project-team)* (Object-Oriented Demo) 
 Jan 2022 - Mar 2022
@@ -43,11 +43,11 @@ Oct 2021 - Dec 2021
 - Contains souls-like UI, transparent objects, sky box, collision detection, lighting effects produced by a slightly modified shader, and illusory walls (can be broken under special conditions)
 - [Recorded demo can be found here](https://drive.google.com/file/d/1i8sZmz35qDkBEU3uEd2EGe5iPiT1X4QQ/view?usp=sharing)
 
-![Dark Souls Simulator](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/images/DarkSoulsSimulator.png)
+![Dark Souls Simulator](../images/DarkSoulsSimulator.png)
 
 ## *[BUFFiMG](https://github.com/SamFeig/BUFFiMG)* (Web with Database) 
 Oct 2019 - Dec 2019
 
 - A webpage (coded using `HTML`) where users can upload photos and sort by tags (managed using `SQL` at the back end)
 
-![BUFFiMG](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/images/BUFFiMG.png)
+![BUFFiMG](../images/BUFFiMG.png)
