@@ -28,4 +28,4 @@ I can speak and read the following 3 different languages:
 
 - Chinese (native language)
 - English
-- Japanese (Haven't done JLPT yet, and I'm thinking of doing N3 test in December this year at Boulder.)
+- Japanese (haven't done JLPT yet, and I'm thinking of doing N3 test in December this year at Boulder.)
