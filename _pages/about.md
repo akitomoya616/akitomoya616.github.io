@@ -13,4 +13,4 @@ I am a second year master's student majoring in Computer Science at CU Boulder. 
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I was also minoring in Program of Rhetoric and Writing back in time as an undergraduate student. Please feel free to check out the [portfolio](https://ucb.digication.com/sitong-lu/home-1) I created as an undergraduate with a minor in writing, which is a collection of some of my best writing from my four years as an undergraduate, along with photos taken with various cell phones I owned!
