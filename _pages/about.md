@@ -15,6 +15,6 @@ Besides programming, my hobbies include collecting and reviewing new phones from
 In my spare time, I prefer staying at home (which is probably the ideal state of being as a programmer) and re-watching the Gundam anime from the 80s and 90s over and over again, while assembling some related plastic models (also known as Gunpla).
 
 
-For more info
+In Fields Other Than Computer Science
 ------
 I was also minoring in Program of Rhetoric and Writing back in time as an undergraduate student. Please feel free to check out the [portfolio](https://ucb.digication.com/sitong-lu/home-1) I created as an undergraduate with a minor in writing, which is a collection of some of my best writing from my four years undergraduate studies, along with photos taken with various cell phones I owned!
