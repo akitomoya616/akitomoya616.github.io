@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year master's student majoring in *Computer Science* at University of Colorado Boulder. I am a programmer and that pretty much explains everything: I have a broad interest in **ANY** programs that need to be built with `SQL`, `Java`, `C`, `C++`, `Python`, and `Scala`. Recently I am trying to write an Android app using Android Studio on my own to deepen my understanding of the various features that can be implemented in it (accessing external APIs, implementing sidebars, embellishing widgets, etc.).
+I am a second year master's student majoring in *Computer Science* at University of Colorado Boulder. I am a programmer and that pretty much explains everything: I have a broad interest in **ANY** programs that need to be built with `SQL`, `Java`, `C`, `C++`, `Python`, and `Scala`. Recently I am trying to write an Android app using Android Studio on my own to deepen my understanding of the various features that can be implemented in it (accessing external APIs, implementing sidebars, embellishing widgets, etc.). In the past two years, I have mainly learned to develop 3D scenes using OpenGL, to develop programs using object-oriented principles, and to build web pages hosted on Heroku with SQL databases and external API accessibility to display weather information.
 
 Besides programming, my hobbies include collecting and reviewing new phones from Samsung, Huawei, Xiaomi, Google, etc. I am also a big fan of the Souls games developed by From Software and Dark Souls 1, Dark Souls 3, and Bloodborne are my 3 favorite Souls games. In addition to the above two, I am also a Gundam fan and really enjoy delving into its related mechanical settings and story timeline (of the Universal Century).
 
