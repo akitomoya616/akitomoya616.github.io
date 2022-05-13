@@ -11,4 +11,4 @@ redirect_from:
 
 Last Updated: May 2022
 
-![Resume](/files/Sitong_Lu_Resume.pdf)
+<iframe src="/files/Sitong_Lu_Resume.pdf#toolbar=0 " width="100%" height="1000px"> </iframe>
