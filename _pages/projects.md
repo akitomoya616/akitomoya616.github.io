@@ -14,8 +14,7 @@ May 2022 - Present
 
 - An Android application (created mainly using `Java`) demo implemented with various of different features, including navigation drawer menu, scrollable page, decorator outer frame, and API references
 
-
-
+![NewsMe](../images/NewsMe.gif)
 
 ## *[Warped Souls](https://github.com/addzy94/ooad-project-game)* (Qt Board Game)
 March 2022 - May 2022
@@ -35,6 +34,8 @@ Jan 2022 - Mar 2022
 - Daily tasks (auto-generated) include clearing inventory, withdrawing cash, and selling or buying merchandise from customers. The user can play as a customer and shop in store by entering commands in the command line (implemented using <span style="color:green">Command Pattern</span>)
 - Each product sold or acquired can generate a preferential sales/resale price by being tied to a specific product (implemented using <span style="color:purple">Decorator Pattern</span>)
 - The daily actions of the store staff are recorded in the logger file(created using <span style="color:pink">Observer Pattern</span>)
+
+![Music Store Simulator](../images/MusicStore.png)
 
 ## *[Dark Souls Simulator](https://github.com/akitomoya616/Souls-Game)* (OpenGL Project) 
 Oct 2021 - Dec 2021
