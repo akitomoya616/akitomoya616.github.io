@@ -26,8 +26,9 @@ March 2022 - May 2022
 ## *[Music Store Simulator](https://github.com/addzy94/ooad-project-team)* (Object-Oriented Demo) 
 Jan 2022 - Mar 2022
 
-- A `Java` based (Object-oriented principle applied) simulator operates an automated store for 30 days
-- Daily tasks (auto-generated) include clearing inventory, withdrawing cash, and selling or buying merchandise from customers. The user can play as a customer and shop in store by entering commands in the command line
+- A `Java` based (Object-oriented principle applied) simulator operates two automated stores (genereated using <span style="color:green">Abstract Factory Pattern</span>) for 30 days
+- Daily tasks (auto-generated) include clearing inventory, withdrawing cash, and selling or buying merchandise from customers. The user can play as a customer and shop in store by entering commands in the command line (implemented using <span style="color:green">Command Pattern</span>)
+- The daily actions of the store staff are recorded in the logger file(created using <span style="color:green">Observer Pattern</span>)
 
 ## *[Dark Souls Simulator](https://github.com/akitomoya616/Souls-Game)* (OpenGL Project) 
 Oct 2021 - Dec 2021
