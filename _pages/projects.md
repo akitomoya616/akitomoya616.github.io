@@ -14,7 +14,7 @@ May 2022 - Present
 
 - An Android application (created mainly using `Java`) demo implemented with various of different features, including navigation drawer menu, scrollable page, decorator outer frame, and API references
 
-![NewsMe](../images/NewsMe.gif)
+![NewsMe](../images/NewsMe.gif) 
 
 ## *[Warped Souls](https://github.com/addzy94/ooad-project-game)* (Qt Board Game)
 March 2022 - May 2022
