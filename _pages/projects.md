@@ -28,3 +28,8 @@ redirect_from:
 
 - A 3D game created using `OpenGL`. Managed to mimic the game scenario in Souls games
 - Contains souls-like UI, transparent objects, sky box, collision detection, lighting effects produced by a slightly modified shader, and illusory walls (can be broken under special conditions)
+
+## *[BUFFiMG](https://github.com/SamFeig/BUFFiMG)* (Web with Database) 
+
+- A webpage (coded using `HTML`) where users can upload photos and sort by tags (managed using `SQL` at the back end)
+
