@@ -12,7 +12,8 @@ redirect_from:
 ## *[NewsMe](https://github.com/akitomoya616/NewsMe)* (Android Application)
 May 2022 - Present
 
-- An Android application (created mainly using `Java`) demo implemented with various of different features, including navigation drawer menu, scrollable page, decorator outer frame, and API references
+- An Android application demo (constructed primarily in `Java`) built through independent learning 
+- Implemented a variety of different functions that were practiced while self-learning, including navigation drawer menu, scrollable page, decorator outer frame, and API references. Aiming to add more features in the future
 
 ![NewsMe](../images/NewsMe.gif) 
 
@@ -31,7 +32,7 @@ March 2022 - May 2022
 Jan 2022 - Mar 2022
 
 - A `Java` based (Object-oriented principle applied) simulator operates two automated stores (generated using <span style="color:blue">Abstract Factory Pattern</span>) for 30 days
-- Daily tasks (auto-generated) include clearing inventory, withdrawing cash, and selling or buying merchandise from customers. The user can play as a customer and shop in store by entering commands in the command line (implemented using <span style="color:green">Command Pattern</span>)
+- Automated daily tasks include clearing inventory, withdrawing cash, and selling or buying merchandise from customers. The user can play as a customer and shop in store by entering commands in the command line (implemented using <span style="color:green">Command Pattern</span>)
 - Each product sold or acquired can generate a preferential sales/resale price by being tied to a specific product (implemented using <span style="color:purple">Decorator Pattern</span>)
 - The daily actions of the store staff are recorded in the logger file (created using <span style="color:pink">Observer Pattern</span>)
 
@@ -40,8 +41,8 @@ Jan 2022 - Mar 2022
 ## *[Dark Souls Simulator](https://github.com/akitomoya616/Souls-Game)* (OpenGL Project) 
 Oct 2021 - Dec 2021
 
-- A 3D game created using `OpenGL`. Managed to mimic the game scenario in Souls games
-- Contains souls-like UI, transparent objects, sky box, collision detection, lighting effects produced by a slightly modified shader, and illusory walls (can be broken under special conditions)
+- An Indie demo of a 3D first-person perspective game developed using `OpenGL` for the first time
+- Contains souls-like UI, transparent objects, sky box, collision detection, lighting effects produced by a slightly modified shader, and illusory walls with animated textures. Managed to mimic the game scenario experienced in traditional Souls games
 - [Recorded demo can be found here](https://drive.google.com/file/d/1i8sZmz35qDkBEU3uEd2EGe5iPiT1X4QQ/view?usp=sharing)
 
 ![Dark Souls Simulator](../images/DarkSoulsSimulator.png)
@@ -49,6 +50,7 @@ Oct 2021 - Dec 2021
 ## *[BUFFiMG](https://github.com/SamFeig/BUFFiMG)* (Web with Database) 
 Oct 2019 - Dec 2019
 
-- A webpage (coded using `HTML`) where users can upload photos and sort by tags (managed using `SQL` at the back end)
+- A `HTML` website hosted on Heroku where users can log in with a registered account, upload and sort photos by tags
+- Semester-long project for a group of six. Mainly responsible for front-end web design and rough algorithms for back-end database access and storage mechanism (add/delete/modify/search user pictures with tags using `SQL` database)
 
 ![BUFFiMG](../images/BUFFiMG.png)
