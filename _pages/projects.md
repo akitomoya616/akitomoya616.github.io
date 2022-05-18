@@ -45,7 +45,10 @@ Oct 2021 - Dec 2021
 - Contains souls-like UI, transparent objects, sky box, collision detection, lighting effects produced by a slightly modified shader, and illusory walls with animated textures. Managed to mimic the game scenario experienced in traditional Souls games
 - [Recorded demo can be found here](https://drive.google.com/file/d/1i8sZmz35qDkBEU3uEd2EGe5iPiT1X4QQ/view?usp=sharing)
 
+Screenshot in game
 ![Dark Souls Simulator](../images/DarkSoulsSimulator.png)
+Gif demo (quality of the recorded Gif demo is a bit low)
+![Dark_Souls_GIF](../images/dark_souls_demo.gif) 
 
 ## *[BUFFiMG](https://github.com/SamFeig/BUFFiMG)* (Web with Database) 
 Oct 2019 - Dec 2019
