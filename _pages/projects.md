@@ -14,8 +14,12 @@ May 2022 - Present
 
 - An Android application demo (constructed primarily in `Java`) built through independent learning 
 - Implemented a variety of different functions that were practiced while self-learning, including navigation drawer menu, scrollable page, decorator outer frame, and API references. Aiming to add more features in the future
+- Weather page accesses the user's location info and grabs weather info corresponding to the location using JSON file accessed using weather api to display today's weather and weather forecast
 
 ![NewsMe](../images/NewsMe.gif) 
+
+Weather Demo (takes a little time to get geographical access for the first time)
+![weather demo gif](/pic/newsme_weather_demo.gif)
 
 ## *[Warped Souls](https://github.com/addzy94/ooad-project-game)* (Qt Board Game)
 March 2022 - May 2022
