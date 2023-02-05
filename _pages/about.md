@@ -29,3 +29,4 @@ I can speak and read the following 3 different languages:
 - Chinese (native language)
 - English
 - Japanese (JLPT N2 certified, Total Score: 156/180, Language Knowledge: 39/60, Reading: 57/60, Listening: 60/60)
+![JLPT N2 Result](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/files/JLPT_N2_Result.png)
