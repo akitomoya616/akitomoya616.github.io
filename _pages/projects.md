@@ -19,7 +19,7 @@ May 2022 - Present
 ![NewsMe](../images/NewsMe.gif) 
 
 Weather Demo (takes a little time to get geographical access for the first time)
-![weather demo gif](https://github.com/akitomoya616/NewsMe/blob/main/pic/newsme_weather_demo.gif)
+![weather demo gif](../images/newsme_weather_demo.gif)
 
 ## *[Warped Souls](https://github.com/addzy94/ooad-project-game)* (Qt Board Game)
 March 2022 - May 2022
