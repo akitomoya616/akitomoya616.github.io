@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Last Updated: January 2023
+Last Updated: February 2023
 
 <iframe src="/files/Sitong_Lu_Resume.pdf#toolbar=0 " width="100%" height="1000px"> </iframe>
