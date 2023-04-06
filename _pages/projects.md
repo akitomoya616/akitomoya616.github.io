@@ -21,7 +21,7 @@ May 2022 - Present
 Weather Demo (takes a little time to get geographical access for the first time)
 ![weather demo gif](../images/newsme_weather_demo.gif)
 
-## *[Warped Souls](https://github.com/addzy94/ooad-project-game)* (Qt Board Game)
+## *[Warped Souls](https://github.com/akitomoya616/Warped-Souls)* (Qt Board Game)
 March 2022 - May 2022
 
 - A 2D dungeon game developed using `Qt` with `Pyside` and was applied with Object-oriented principle
