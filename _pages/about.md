@@ -15,7 +15,7 @@ I prefer <span style="color:blue">chatting with professors or with people older 
 
 Outside of Computer Science
 ------
-Besides programming, my hobbies include collecting and reviewing new phones from Samsung, Huawei, Xiaomi, Google, etc. I am also a big fan of the Souls games developed by From Software and Dark Souls 1, Dark Souls 3, and Bloodborne are my 3 favorite Souls games. In addition to the above two, I am also a Gundam fan and really enjoy delving into its related mechanical settings and story timeline (of the Universal Century).
+Besides programming, my hobbies include collecting and reviewing new phones from Samsung, Huawei, Xiaomi, Google, etc. I am also a big fan of the Souls games developed by FromSoftware and *Dark Souls 1*, *Dark Souls 3*, and *Bloodborne* are my 3 favorite Souls games. In addition to the above two, I am also a Gundam fan and really enjoy delving into its related mechanical settings and story timeline (of the Universal Century).
 
 In my spare time, I prefer staying at home (which is probably the ideal state of being as a programmer) and re-watching the Gundam anime from the 80s and 90s over and over again, while assembling some related plastic models (also known as Gunpla). I recently purchased an e-scooter, and it's one of the few times you'll see me outside - because I'll be riding around on it!
 
