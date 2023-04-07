@@ -32,8 +32,8 @@ I can speak and read the following 3 different languages:
   - Full Professional Proficiency 
 - **Japanese** 
   - Professional Working Proficiency
-  - JLPT N2 certified and Ranked in [Top 3.4% Of Global Rankings](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/files/JLPT-Proficiency-Certificate.pdf)
-    -  [Total Score](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/files/JLPT_N2_Result.pdf): 156/180
+  - JLPT/日本語能力試験 N2 certified and Ranked in [Top 3.4% Of Global Rankings/パーセンタイル順位96.6](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/files/JLPT-Proficiency-Certificate.pdf)
+    -  [Total Score/総合得点](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/files/JLPT_N2_Result.pdf): 156/180
         -  Language Knowledge/言語知識(文字・語彙): 39/60
         -  Reading/読解: 57/60
         -  Listening/聴解: 60/60
