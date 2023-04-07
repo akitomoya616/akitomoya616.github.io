@@ -26,6 +26,6 @@ Languages
 
 I can speak and read the following 3 different languages:
 
-- Chinese (native language)
-- English
-- Japanese (JLPT N2 certified and is in the [top 3.4% of global ranking](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/files/JLPT-Proficiency-Certificate.pdf), [Total Score](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/files/JLPT_N2_Result.pdf): 156/180, Language Knowledge: 39/60, Reading: 57/60, Listening: 60/60)
+- **Chinese** (native language)
+- **English**
+- **Japanese** (JLPT N2 certified and is in the [top 3.4% of global ranking](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/files/JLPT-Proficiency-Certificate.pdf). [Total Score](https://github.com/akitomoya616/akitomoya616.github.io/blob/master/files/JLPT_N2_Result.pdf): 156/180, Language Knowledge: 39/60, Reading: 57/60, Listening: 60/60)
