@@ -15,11 +15,11 @@ I prefer <span style="color:blue">chatting with professors or with people older 
 
 Outside of Computer Science
 ------
-Besides programming, my hobbies include collecting and reviewing new phones from Samsung, Huawei, Xiaomi, Google, etc. I am also a big fan of the Souls games developed by FromSoftware and *Dark Souls 1*, *Dark Souls 3*, and *Bloodborne* are my 3 favorite Souls games. In addition to the above two, I am also a Gundam fan and really enjoy delving into its related mechanical settings and story timeline (of the Universal Century).
+Besides programming, my hobbies include collecting and reviewing new phones from Samsung, Huawei, Xiaomi, Google, etc. I am also a big fan of the Souls games developed by **FromSoftware** and ***Dark Souls 1***, ***Dark Souls 3***, and ***Bloodborne*** are my 3 favorite Souls games. In addition to the above two, I am also a **Gundam** fan and really enjoy delving into its related mechanical settings and story timeline (of the **Universal Century**).
 
-In my spare time, I prefer staying at home (which is probably the ideal state of being as a programmer) and re-watching the Gundam anime from the 80s and 90s over and over again, while assembling some related plastic models (also known as Gunpla). I recently purchased an e-scooter, and it's one of the few times you'll see me outside - because I'll be riding around on it!
+In my spare time, I prefer staying at home (which is probably the ideal state of being as a programmer) and re-watching the Gundam anime from the 80s and 90s over and over again, while assembling some related plastic models (also known as **Gunpla**). I recently purchased an e-scooter, and it's one of the few times you'll see me outside - because I'll be riding around on it!
 
-I was also minoring in Program of Rhetoric and Writing back in time as an undergraduate student. Please feel free to check out the [portfolio](https://ucb.digication.com/sitong-lu/home-1) I created as an undergraduate with a minor in writing, which is a collection of some of my best writing from my four years undergraduate studies, along with photos taken with various cell phones I owned!
+I was also minoring in **Program of Rhetoric and Writing** back in time as an undergraduate student. Please feel free to check out the [portfolio](https://ucb.digication.com/sitong-lu/home-1) I created as an undergraduate with a minor in writing, which is a collection of some of my best writing from my four years undergraduate studies, along with photos taken with various cell phones I owned!
 
 Languages
 ------
